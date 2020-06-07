@@ -1,12 +1,10 @@
-# backend_management
+# backend_management_api
 
 ## 启动
 ```
   1.安装node依赖：npm install
   2.导入数据库：位于db目录下的mydb.sql
-  3.数据库默认配置为，库名：db
-                     用户名：123456
-                     密码：123456
+  3.数据库默认配置为，库名为db，用户名和密码为123456
   4.开启服务器:node app.js
 ```
 
